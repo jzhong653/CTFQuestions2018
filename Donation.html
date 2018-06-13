@@ -30,15 +30,17 @@
       {
         float:            top;
         text-align:       center;
-        font-size:        150px;
+        padding-bottom:   15px;
+        padding-right:    20px;
+        font-size:        100px;
         color:            #FFFFFF;
         line-height:      normal;
       }
       p
       {
         float:            top;
-        text-align:       center;
-        font-size:        100px;
+        text-align:       right;
+        font-size:        50px;
         color:            #FFFFFF;
         line-height:      normal;
       }
@@ -82,12 +84,10 @@
       .left
       {
         float:            left;
-        text-align:       center;
       }
       .right
       {
         float:            right;
-        text-align:       center;
       }
       h5
       {
@@ -170,6 +170,31 @@
       </div>
     </nav>
     <div id="wrapper">
+      <h1>Donation</h1>
+      <form>
+        <p>
+        <textarea id="FirstName" row=1 columns=20>First Name</textarea>
+        <br>
+        <textarea id="LastName" row=1 columns=20>Last Name</textarea>
+        <br>
+        <textarea id="DonationAmount" row=1 columns=6>Donation amount</textarea>
+        <br>
+        <textarea id="CCNum" row=1 columns=20>Credit Card Number</textarea>
+        <br>
+        <textarea id="Pin" row=1 columns=4>Four Number Pin on the back of your card</textarea>
+        <br>
+        <textarea id="Email" row=1 columns=40>Email</textarea>
+        <br>
+        <textarea id="Address" row=1 columns=40>Street Address</textarea>
+        <br>
+        <textarea id="City" row=1 columns=10>City</textarea>
+        <br>
+        <textarea id="State" row=1 columns=2>State Intials</textarea>
+        <br>
+        Thank your for your donation. Your donation is much appreciated.
+        <br>
+        <button><a href="donate.html">Submit</a></button>
+      </p>
       <h5 onclick="hide()"><u> </u></h5>
       <div class="hidden" id="Report">
         <p class="p">The following money will be donated to what is selected in the box. If you want to change where you are donating to, please reselect in the dropdown box. Then press Submit to confirm.</p>

@@ -5,6 +5,6 @@ This repo is part of the collection of questions I designed for the UNO GenCyber
 <br>
 <br>
 <br>
-<b>For more information, please contact me:
+<p align = "center"><b>For more information, please contact me:
 <br>Joseph Zhong
-<br>Email: jszhong2003@gmail.com</b>
+<br>Email: jszhong2003@gmail.com</b></p></p>

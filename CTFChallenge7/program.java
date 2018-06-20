@@ -1,3 +1,10 @@
+//Created by Joseph Zhong on June of 2018 for the intended purpose of use at the Capture the Flag Challenge for UNO's GenCyber Camp.
+//Joseph Zhong, though, has granted permission for this to be used elsewhere.
+//
+//This code is currently incomplete. This was an attempt at creating another challenge for UNO's GenCyber Camp.
+//
+//If someone can finish this code for me, I would be much thankful and credit will be given.
+
 public class program
 {
   int i = 0;

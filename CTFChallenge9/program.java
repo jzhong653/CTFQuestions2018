@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//Created by Joseph Zhong on June of 2018 for the intended purpose of use at the Capture the Flag Challenge for UNO's GenCyber Camp.
+//Joseph Zhong, though, has granted permission for this to be used elsewhere.
+
 public class program
 {
   public static void main(String [] args)

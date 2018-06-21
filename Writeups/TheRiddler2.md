@@ -5,3 +5,9 @@ The question is actually a riddle for which the user is attempting to find out w
 What is the largest IT company that doesn't have its headquarters in Silicon Valley?
 <h2>Solution</h2>
 The user should take a look at each of the clues to discover the answer. The first clue given was the company has been around for a long time, since before the World Wars. They were first founded as a company that did office work, but now have transformed into a computers company. The final clue was the one of the computers they created beat a chess champion and is known for playing chess against chess champions. This should all lead the user to the answer of <b>IBM</b>.
+<br>
+<br>
+<br>
+<p align = "center"><b>For more information, please contact me:
+<br>Joseph Zhong
+<br>Email: jszhong2003@gmail.com</b></p></p>

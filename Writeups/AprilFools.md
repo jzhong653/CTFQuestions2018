@@ -17,3 +17,9 @@ After trying a few of the links, they will get to the correct link and find a we
 <br>
 <br>
  They are suppose to notice that the text on the topic of the flag is weird. They are suppose to realize that the top portion of the flag with the text contains that flag. Then they translate what is on the top of the flag from Arabic to English to find the <b>flag{Uruguay}</b>.
+ <br>
+ <br>
+ <br>
+ <p align = "center"><b>For more information, please contact me:
+ <br>Joseph Zhong
+ <br>Email: jszhong2003@gmail.com</b></p></p>

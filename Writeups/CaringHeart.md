@@ -11,3 +11,9 @@ There are Hidden elements on every page including the hidden page.
 <p>Reading the instructions, which state that in order for you to change to location of your donation, you must reselect then hit submit.</p><
 <img src="images/Hidden3.png">
 <p>But when you hit submit, you are taken to a hidden webpage that says you cannot change the location of where you donate your money to thus leaving it at the default option which is <b>flag{Sudanese_Military}</b>. Meaning that there is the location of where your money is going and thus there is your flag.</p>
+<br>
+<br>
+<br>
+<p align = "center"><b>For more information, please contact me:
+<br>Joseph Zhong
+<br>Email: jszhong2003@gmail.com</b></p></p>

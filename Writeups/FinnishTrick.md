@@ -17,3 +17,9 @@ The user is suppose to inspect element and find the source code for the file. Th
 <br>
 <br>
 While they're doing this, they will notice that the whole code is in English except for an abnormality with one specific ID of something looking like Finnish. They translate the Finnish text to English text and they get their <b>flag{source_and_collection}</b>.
+<br>
+<br>
+<br>
+<p align = "center"><b>For more information, please contact me:
+<br>Joseph Zhong
+<br>Email: jszhong2003@gmail.com</b></p></p>

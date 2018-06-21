@@ -7,3 +7,9 @@ Your piano is your keyboard.
 The idea is for the user to figure out that the code is based on the position of the key on your keyboard. Then either code a program to find the answer or if they don't know how to, use their physical keyboard and find the answer. After translating the whole thing into readable English, it shouldn't be very hard to find the <b>flag{fear}</b> from there.
 <h2>A Sample Solution</h2>
 <img src="images/Program.png">
+<br>
+<br>
+<br>
+<p align = "center"><b>For more information, please contact me:
+<br>Joseph Zhong
+<br>Email: jszhong2003@gmail.com</b></p></p>

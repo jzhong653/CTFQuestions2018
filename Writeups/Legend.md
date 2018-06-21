@@ -12,3 +12,9 @@ By inverting the photo back to its orignial state, the written text on the photo
 <br>
 <br>
 Another solution the user could of explored was if they had noticed something wierd in the inverted photo's bottom right hand corner. They could then zoom in on the wierd spot and from there, they can also see the rough outline of the <b>flag{Australia_lost_to_emus}</b>.
+<br>
+<br>
+<br>
+<p align = "center"><b>For more information, please contact me:
+<br>Joseph Zhong
+<br>Email: jszhong2003@gmail.com</b></p></p>

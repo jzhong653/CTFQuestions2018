@@ -5,3 +5,9 @@
 Don't forget the parentheses.
 <h2>Solution</h2>
 <p>Should be a simple command, <b>Take Off()</b></p>
+<br>
+<br>
+<br>
+<p align = "center"><b>For more information, please contact me:
+<br>Joseph Zhong
+<br>Email: jszhong2003@gmail.com</b></p></p>
